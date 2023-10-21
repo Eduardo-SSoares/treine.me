@@ -15,7 +15,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Esse projeto foi desenvolvido para treinamento de estilização e posicionamento, aprendizado na utilização do display grid e suas ferramentas de alinhamento.
+Esse projeto foi desenvolvido para treinamento de estilização e posicionamento, aprendizado na utilização do display flex e suas ferramentas de alinhamento.
 
 - [Acesse o projeto finalizado, online](https://github.com/Eduardo-SSoares/treine.me)
 
